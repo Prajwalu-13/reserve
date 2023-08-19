@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375021326268",
+    "project_id": "reserve-6a6df",
+    "storage_bucket": "reserve-6a6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375021326268:android:441fdc40ef03090d9065b9",
+        "android_client_info": {
+          "package_name": "com.example.reserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375021326268-frsaieau8hoskpg5p27uat1ddj7p4gtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24ahtcRR74Q16WSi91uyhGHi3P7vdkx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375021326268-frsaieau8hoskpg5p27uat1ddj7p4gtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
